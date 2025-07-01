@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Monday",
+    "theme": "🧠 Mindset",
+    "title": "Your brain decides before you do",
+    "insight": "In a groundbreaking study..."
+  },
+  {
+    "day": "Tuesday",
+    "theme": "⏳ Time & Technology",
+    "title": "The present doesn’t exist",
+    "insight": "The human brain has a processing delay..."
+  },
+  {
+    "day": "Wednesday",
+    "theme": "🌍 World & Knowledge",
+    "title": "Cleopatra lived closer to the iPhone than the pyramids",
+    "insight": "The Great Pyramids were built more than 2500 years before Cleopatra's reign."
+  },
+  {
+    "day": "Thursday",
+    "theme": "🎨 Art & Aesthetics",
+    "title": "Art changes your biochemistry",
+    "insight": "A study from Drexel University shows art-making lowers stress hormones."
+  },
+  {
+    "day": "Friday",
+    "theme": "❤️ Love & Human Nature",
+    "title": "Men and women listen differently",
+    "insight": "Brain imaging shows that men and women use different areas when listening to others."
+  },
+  {
+    "day": "Saturday",
+    "theme": "🧘 Body & Senses",
+    "title": "Your gut has a brain of its own",
+    "insight": "The gut contains more than 100 million neurons."
+  },
+  {
+    "day": "Sunday",
+    "theme": "🌌 Existence & Infinity",
+    "title": "You are made of dead stars",
+    "insight": "Most of the elements in your body were formed in stars long before the Sun existed."
+  }
+]
